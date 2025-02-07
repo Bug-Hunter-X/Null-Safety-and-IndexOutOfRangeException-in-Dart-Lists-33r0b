@@ -1,0 +1,2 @@
+# Dart List Access Bug
+This repository demonstrates a common error in Dart related to null safety and accessing list elements outside the list's bounds. The bug showcases how to safely access list elements while highlighting a potential runtime error.
